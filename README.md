@@ -1,5 +1,5 @@
 # Title of Your Final Project Here 
-## INFO 201 "Foundational Skills for Data Science" — Winter 2022
+## INFO 201 "Foundational Skills for Data Science" — Spring 2022
 
 Authors: Your names here
 
