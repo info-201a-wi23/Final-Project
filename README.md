@@ -1,9 +1,9 @@
 # Title of Your Final Project Here 
-## INFO 201 "Foundational Skills for Data Science" — Spring 2022
+## INFO 201 "Foundational Skills for Data Science" — Winter 2023
 
 Authors: Your names here
 
-Link: Link to your Shiny App here
+**Link: Link to your Shiny App here**
 
 Please create the necessary files for your multi-page Shiny app in this GitHub repository. Consult the Canvas assignment for more details. Be sure to publish your app on Shinyapps.io.
 
